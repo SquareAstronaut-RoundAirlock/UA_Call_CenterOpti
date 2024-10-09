@@ -14,4 +14,18 @@ The steps taken:
 
 ### Primary Call Reason Types
 
+![alt text](types.png)
 
+### Calls with longer AHT
+
+![alt text](longcall_type.png)
+
+### Interaction Review
+
+![alt text](sentiments_caller.png)
+
+![alt text](agent_sentiments.png)
+
+### Contribution to long calls
+
+![alt text](pie_chart.png)
